@@ -184,3 +184,11 @@ small{
     height: 30px;
     padding-right: 5px;
 }
+
+@media screen and (max-width: 600px) {
+    .cover{
+        margin-top: 150%;
+    }
+
+  
+  }
